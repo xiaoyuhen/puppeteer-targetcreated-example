@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-targetcreated-example",
+  "scripts": {
+    "test": "node koa.js & node example.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {
+    "koa": "^2.6.2"
+  }
+}

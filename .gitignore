@@ -1,0 +1,10 @@
+.DS_STORE
+/coverage
+/node_modules
+/node6
+.eslintcache
+*.log
+
+# IDE
+/.idea
+/.vscode
